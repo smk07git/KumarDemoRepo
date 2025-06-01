@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "GitkumarADFDemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
