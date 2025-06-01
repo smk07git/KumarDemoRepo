@@ -1,0 +1,9 @@
+{
+	"name": "GitkumarADFDemo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aff6d88b-073d-40db-8b4b-dc071349d512",
+		"tenantId": "58896736-eee0-4e7f-bcc1-91a8626c17c8"
+	}
+}
